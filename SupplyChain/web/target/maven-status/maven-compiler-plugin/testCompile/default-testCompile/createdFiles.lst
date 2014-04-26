@@ -1,0 +1,11 @@
+com\yoso\webapp\pages\BasePageTest.class
+com\yoso\webapp\StaticAuthenticatedWebSession.class
+com\yoso\webapp\filter\LocaleFilterTest.class
+com\yoso\webapp\pages\SignupPageTest.class
+com\yoso\webapp\filter\MockFilterChain.class
+com\yoso\webapp\Spring3ApplicationContextMock$1.class
+com\yoso\webapp\Spring3ApplicationContextMock.class
+com\yoso\webapp\pages\LoginPageTest.class
+com\yoso\webapp\TestAppFuseWicketApplication.class
+com\yoso\webapp\pages\SignupPageTest$1.class
+com\yoso\webapp\listener\StartupListenerTest.class
